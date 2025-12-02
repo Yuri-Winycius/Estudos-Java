@@ -1,4 +1,4 @@
-package estrutura.pilha;
+package ProjetoPilha.src.estrutura.pilha;
 
 public class Main {
     public static void main(String[] args) {
